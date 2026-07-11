@@ -40,29 +40,7 @@ DailyVault is a privacy-first, completely offline personal organizer that keeps 
 
 ---
 
-## 🚀 Getting Started (Development)
 
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/DailyVault.git
-
-# Navigate to project directory
-cd DailyVault
-
-# Install dependencies
-npm install
-
-# Run the dev server
-npm run dev
-
-# Build web assets
-npm run build
-
-# Sync with Android
-npx cap sync android
-```
-
----
 
 ## 📸 Screenshots
 
